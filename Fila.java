@@ -1,4 +1,4 @@
-package colecoes;
+package colecoes2;
 
 import java.util.LinkedList;
 import java.util.Queue;

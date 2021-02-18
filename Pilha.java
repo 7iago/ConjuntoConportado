@@ -1,4 +1,4 @@
-package colecoes;
+package colecoes2;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

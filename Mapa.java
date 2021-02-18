@@ -1,7 +1,6 @@
-package colecoes;
+package colecoes2;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 

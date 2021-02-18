@@ -1,4 +1,4 @@
-package colecoes;
+package colecoes2;
 
 public class Usuario {
 	String nome;
